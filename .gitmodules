@@ -1,0 +1,3 @@
+[submodule "TREX-Core"]
+	path = TREX-Core
+	url = https://github.com/at-peter/TREX-Core.git
